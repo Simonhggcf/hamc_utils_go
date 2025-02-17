@@ -7,7 +7,7 @@ HMAC-Golang is a Go package for generating and verifying HMAC (Hash-based Messag
 To use this package, you can clone the repository or use it as a module in your Go project.
 
 ```bash
-go get github.com/Simonhggcf/HMAC-Golang/hmac_util
+go get github.com/Simonhggcf/hmac_utils_go
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Simonhggcf/HMAC-Golang/hmac_util"
+	"github.com/Simonhggcf/hmac_utils_go"
 )
 
 func main() {
@@ -37,7 +37,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Simonhggcf/HMAC-Golang/hmac_util"
+	"github.com/Simonhggcf/hmac_utils_go"
 )
 
 func main() {
